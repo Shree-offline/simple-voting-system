@@ -5,7 +5,7 @@
 The **Simple Voting System** is a decentralized smart contract built using **Soroban**, the smart contract platform of **:contentReference[oaicite:0]{index=0}**.  
 This project demonstrates a basic on-chain voting mechanism where users can vote for predefined candidates in a transparent and tamper-proof way.
 
-The idea (`XXX`) focuses on showcasing how decentralized governance concepts can be implemented using Stellar’s ecosystem.
+The idea (`Simple Voting System`) focuses on showcasing how decentralized governance concepts can be implemented using Stellar’s ecosystem.
 
 ---
 
@@ -32,7 +32,7 @@ The idea (`XXX`) focuses on showcasing how decentralized governance concepts can
 ## 🔗 Deployed Smart Contract Link
 
 > **Testnet Deployment:**  
-https://stellaride.vercel.app/ide
+https://stellar.expert/explorer/testnet/contract/CCISFJ4UJXL6UVI3E4XIRVJDINAJODSS4OZRS2755TW25XTEDC5XUBTH
 
 ---
 
