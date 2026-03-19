@@ -32,9 +32,7 @@ The idea (`XXX`) focuses on showcasing how decentralized governance concepts can
 ## 🔗 Deployed Smart Contract Link
 
 > **Testnet Deployment:**  
-> https://stellar.expert/explorer/testnet/contract/XXXXXXXXXXXXXXXXXXXXXXXX
-
-*(Replace the above link with your actual deployed contract address)*
+https://stellaride.vercel.app/ide
 
 ---
 
